@@ -1,0 +1,5 @@
+21/05/20 
+- set up environments
+
+22/05/20
+goal - complete setting up environment, read through specification, create plan to make sure things are crossed off, get started on coding
