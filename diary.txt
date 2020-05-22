@@ -3,3 +3,9 @@
 
 22/05/20
 goal - complete setting up environment, read through specification, create plan to make sure things are crossed off, get started on coding
+
+23/05/20
+* set up environment - git, azure
+* fix up data to csv
+next up - figure out what is the best machine learning model/strategy to use considering there is only continuous features
+naive baynes - https://www.dezyre.com/article/top-10-machine-learning-algorithms/202
