@@ -4,8 +4,19 @@
 22/05/20
 goal - complete setting up environment, read through specification, create plan to make sure things are crossed off, get started on coding
 
-23/05/20
+22/05/20
 * set up environment - git, azure
 * fix up data to csv
 next up - figure out what is the best machine learning model/strategy to use considering there is only continuous features
 naive baynes - https://www.dezyre.com/article/top-10-machine-learning-algorithms/202
+Logistic regression - https://towardsdatascience.com/spam-detection-with-logistic-regression-23e3709e522
+* get a general + some technical understanding of the naive bayes machine learning algorithm
+
+23/05/20
+* stuck with logistic regression
+* completed model implementation with around 92% accuracy
+Next - check accuracy with other methodologies + work on function that extracts needed data to put in classifier. 
+
+
+Info + resources
+* potential models - naive bayes, logistic regression 
