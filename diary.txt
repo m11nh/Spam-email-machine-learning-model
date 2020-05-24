@@ -17,6 +17,14 @@ Logistic regression - https://towardsdatascience.com/spam-detection-with-logisti
 * completed model implementation with around 92% accuracy
 Next - check accuracy with other methodologies + work on function that extracts needed data to put in classifier. 
 
+24/05/2020
+* completed model accuracy testing
+* worked on a bit of the model implementation
+Next - complete the 3rd part of checking input - frequency of capitals etc.
 
+todo later:
+- comment my code clearly
+- check all the checkpoints in spec to see i've completed
+- submit
 Info + resources
 * potential models - naive bayes, logistic regression 
