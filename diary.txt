@@ -22,6 +22,11 @@ Next - check accuracy with other methodologies + work on function that extracts 
 * worked on a bit of the model implementation
 Next - complete the 3rd part of checking input - frequency of capitals etc.
 
+25/05/2020
+* completed the implementation function 
+next - make test cases, test them to get a general feed
+     - comment code + move on with next steps
+
 todo later:
 - comment my code clearly
 - check all the checkpoints in spec to see i've completed
