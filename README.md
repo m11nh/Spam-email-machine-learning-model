@@ -4,7 +4,7 @@ Generated a machine learning model to detect whether email is spam or not.
 Note for setting up 
 * open SpamEmailML.ipynb on jupyter/machine learning studios
 * make sure spambase.csv is in same folder (data file)
-* can now run everything in the jupyter notebook
+* cell - run all to create and run model
 
 Project inspiration/goal
 * develop a machine learning model that can detect spam emails
