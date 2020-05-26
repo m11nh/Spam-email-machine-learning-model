@@ -1,5 +1,5 @@
 # Spam-email-machine-learning-model
-Generate a machine learning model that classifies email as being spam or not spam.
+Generated a machine learning model to detect whether email is spam or not. 
 
 Note for setting up 
 * open SpamEmailML.ipynb on jupyter/machine learning studios
@@ -14,6 +14,7 @@ Classification model used
 * gaussian naive bayes since it is general used for this problem, and deals with continuous features well
 
 Other
-* this model is specific to the data set provided, and is not in any way a general spam email filter that can be commercially used.
+* this model is specific to the context of the data set provided (business context in usa), and is not in any way a general spam email filter that can be commercially used.
+* data at - https://archive.ics.uci.edu/ml/datasets/Spambase
 * it provides a method that can be used to create a more general spam filter, but requires much more example emails/data
 
